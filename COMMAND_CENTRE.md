@@ -1,7 +1,11 @@
-# COMMAND CENTRE
+# COMMAND CENTRE v2.0
 ### HakunaShortcut | Operational Intelligence Hub
 
 > *"You don't rise to the level of your goals. You fall to the level of your systems."*
+
+**Revision note:** v2.0 synced to match LOG_ROADMAP.md v2.0 and the
+actual published archive. Arc 02 retitled Sovereignty Series.
+LOGs 001–006 moved from Planned/In Progress to Published.
 
 ---
 
@@ -11,10 +15,10 @@
 |-----------|--------------|
 | 📍 Base of Operations | North Kinangop, Kenya |
 | 📡 Active Platform | Substack |
-| 🗂️ Archive Status | Initializing |
-| 🔄 Current Arc | The Infrastructure Series |
-| 📋 Next Transmission | Log 003 — The Bridge Builders |
-| ⚡ Captain's Status | `[ Adapting / Scaling / Undercover / Observing ]` |
+| 🗂️ Archive Status | Operational — pushed to GitHub |
+| 🔄 Current Arc | Arc 02 — The Sovereignty Series |
+| 📋 Next Transmission | Log 007 — The Portability Principle |
+| ⚡ Captain's Status | `Navigating` |
 
 ---
 ---
@@ -22,47 +26,50 @@
 ## [ 01 — SERIES ARCS ]
 
 > *The map of where we've been and where we're going.*
-> *A series arc is a thematic campaign — 3 to 6 logs that build a complete argument.*
 
 ---
 
-### ARC 01 — THE INFRASTRUCTURE SERIES
+### ARC 01 — THE INFRASTRUCTURE SERIES ✅ COMPLETE
 **Core Argument:** The digital economy is not equally accessible. The gap is not skill — it is plumbing.
 
-| Log # | Title | Core Friction | Status | Published |
-|-------|-------|---------------|--------|-----------|
-| 001 | *The Access Gate* | Why participation is difficult | ✅ Published | `YYYY-MM-DD` |
-| 002 | *The Gatekeepers* | Who controls infrastructure | ✅ Published | `YYYY-MM-DD` |
-| 003 | *The Bridge Builders* | Where African developers fit | 🔄 In Progress | — |
-| 004 | *The New Frontier* | AI, open source, local innovation | 📋 Planned | — |
+| Log # | Title | Core Friction | Status | Archived |
+|-------|-------|---------------|--------|----------|
+| 001 | *The Access Gate* | Why participation is difficult | ✅ Published | `logs/2025/log-001.md` |
+| 002 | *The Gatekeepers* | The four-layer gate network | ✅ Published | `logs/2025/log-002.md` |
+| 003 | *The Incentive Matrix* | The eight sentinels and why gates exist | ✅ Published | `logs/2025/log-003.md` |
+| 004 | *Accumulate to Dilute* | Token micro-earnings & fee leakage | ✅ Published | `logs/2025/log-004.md` |
 
 ---
 
-### ARC 02 — THE LIQUIDITY SERIES
-**Core Argument:** Earning online is not the hard part. Moving money from platform to pocket is the battlefield.
+### ARC 02 — THE SOVEREIGNTY SERIES 🔄 IN PROGRESS
+**Core Argument:** Knowledge revealed the terrain. Navigation revealed
+the route. Ownership determines whether the journey can continue.
 
-| Log # | Title | Core Friction | Status | Published |
-|-------|-------|---------------|--------|-----------|
-| 005 | *Accumulate to Dilute* | Token micro-earnings & fee leakage | 📋 Planned | — |
-| 006 | *The P2P Layer* | Peer-to-peer markets as local bridges | 📋 Planned | — |
-| 007 | *The Payout Trap* | Minimum thresholds vs. real liquidity | 📋 Planned | — |
+| Log # | Title | Core Friction | Status | Archived |
+|-------|-------|---------------|--------|----------|
+| 005 | *The Infrastructure Lens* | Locate yourself before you build | ✅ Published | `logs/2026/log-005.md` |
+| 006 | *The Dependency Trap* | Profitable dependency is the most dangerous kind | ✅ Published | `logs/2026/log-006.md` |
+| 007 | *The Portability Principle* | What do you own that can move with you? | 📋 Planned | — |
 
 ---
 
-### ARC 03 — [ TITLE PENDING ]
-**Core Argument:** `[Define the next major argument here when Arc 02 is complete.]`
+### ARC 03 — THE SYSTEMS SERIES 💡 CONCEPT
+**Core Argument:** Understanding the system is not enough.
+You must find the points where one move changes everything.
 
-| Log # | Title | Core Friction | Status | Published |
-|-------|-------|---------------|--------|-----------|
-| 008 | *TBD* | — | 💡 Concept | — |
+*Working titles only — subject to revision based on field signal,*
+*consistent with how Arc 02 evolved from the original projection.*
+
+| Log # | Working Title | Status |
+|-------|---------------|--------|
+| 008 | *Distribution Networks* | 💡 Concept |
+| 009 | *Leverage Points* | 💡 Concept |
+| 010 | *The Control Layer* | 💡 Concept |
 
 ---
 ---
 
 ## [ 02 — EDITORIAL PIPELINE ]
-
-> *Every log moves through these five stages.*
-> *Nothing ships without passing through Review.*
 
 ```
 💡 CONCEPT → 📝 DRAFT → 🔍 REVIEW → ✅ PUBLISHED → 🗂️ ARCHIVED
@@ -71,14 +78,13 @@
 ---
 
 ### 💡 CONCEPT BANK
-*Raw ideas. One line each. Date logged.*
 
 | # | Idea | Date Logged | Target Arc |
 |---|------|-------------|------------|
-| C-01 | `The cost of free tools — hidden subscription infrastructure` | `YYYY-MM-DD` | TBD |
-| C-02 | `When your currency isn't supported — FX conversion as a tax` | `YYYY-MM-DD` | Liquidity |
-| C-03 | `Digital identity as a gate — KYC from the last mile` | `YYYY-MM-DD` | Infrastructure |
-| C-04 | `Add your idea here` | `YYYY-MM-DD` | — |
+| C-01 | The cost of free tools — hidden subscription infrastructure | `—` | Arc 03 |
+| C-02 | When your currency isn't supported — FX conversion as a tax | `—` | Arc 03 |
+| C-03 | Digital identity as a gate — KYC from the last mile | `—` | Arc 03 |
+| C-04 | What happens when the gate closes behind you | `—` | Arc 02/03 bridge |
 
 ---
 
@@ -86,46 +92,37 @@
 
 | Log # | Title | Arc | Started | Target Ship |
 |-------|-------|-----|---------|-------------|
-| 003 | *The Bridge Builders* | Infrastructure | `YYYY-MM-DD` | `YYYY-MM-DD` |
-
----
-
-### 🔍 IN REVIEW
-
-| Log # | Title | Draft Complete | Notes |
-|-------|-------|---------------|-------|
-| — | — | — | — |
+| 007 | *The Portability Principle* | Sovereignty | `—` | `—` |
 
 ---
 
 ### ✅ PUBLISHED LOG
 
-| Log # | Title | Arc | Published | Substack Link |
-|-------|-------|-----|-----------|---------------|
-| 001 | *The Access Gate* | Infrastructure | `YYYY-MM-DD` | `[link]` |
-| 002 | *The Gatekeepers* | Infrastructure | `YYYY-MM-DD` | `[link]` |
+| Log # | Title | Arc | Archived |
+|-------|-------|-----|----------|
+| 001 | The Access Gate | Infrastructure | `logs/2025/log-001.md` |
+| 002 | The Gatekeepers | Infrastructure | `logs/2025/log-002.md` |
+| 003 | The Incentive Matrix | Infrastructure | `logs/2025/log-003.md` |
+| 004 | Accumulate to Dilute | Infrastructure | `logs/2025/log-004.md` |
+| 005 | The Infrastructure Lens | Sovereignty | `logs/2026/log-005.md` |
+| 006 | The Dependency Trap | Sovereignty | `logs/2026/log-006.md` |
 
 ---
 ---
 
 ## [ 03 — PLATFORM INTELLIGENCE ]
 
-> *Tracking the gates we operate through.*
-> *Know your infrastructure or it will surprise you.*
-
-| Platform | Purpose | Fee/Threshold | Status | Last Reviewed |
-|----------|---------|---------------|--------|---------------|
-| Substack | Publishing | Free tier active | ✅ Active | `YYYY-MM-DD` |
-| GitHub | Archive & command centre | Free | ✅ Active | `YYYY-MM-DD` |
-| `[Platform]` | `[Purpose]` | `[Fee structure]` | `[Status]` | `YYYY-MM-DD` |
+| Platform | Purpose | Status | Last Reviewed |
+|----------|---------|--------|---------------|
+| Substack | Publishing | ✅ Active | `—` |
+| GitHub | Archive & command centre | ✅ Active — Live | `2026-06-27` |
 
 ---
 ---
 
 ## [ 04 — THE RULES ]
 
-> *Battle-tested principles. Updated as new dispatches are filed.*
-> *These are not motivational quotes. They are operating procedures.*
+> *Battle-tested principles. Extracted from dispatches in sequence.*
 
 **Rule #1:** Never let a single platform hold more than your next data bundle.
 
@@ -133,42 +130,48 @@
 
 **Rule #3:** The platform isn't malicious. It's blind to the last mile. Your job is to see what it cannot.
 
-**Rule #4:** Understand the plumbing, or get washed away by the fees.
+**Rule #4:** Dollars are not a product. Dollars are a signal — stop chasing capital, build the conditions that attract it.
 
-**Rule #5:** `[Add new rule as dispatches reveal new principles.]`
+**Rule #5:** Every gate has a sentinel. Every sentinel has incentives. Study the reason the lock was installed — not the lock itself.
+
+**Rule #6:** Value explains why opportunity appears. Infrastructure determines where it flows. Locate your layer before you build your strategy.
+
+**Rule #7:** Borrowed ground should never become permanent residence. The platform may introduce you. Ownership is what allows you to stay.
+
+**Rule #8:** `[Pending LOG 007]`
 
 ---
 ---
 
 ## [ 05 — METRICS ]
 
-> *Track what matters. Ignore vanity numbers.*
-
-| Metric | Baseline | Current | Target | Notes |
-|--------|----------|---------|--------|-------|
-| Substack subscribers | `0` | `—` | `—` | — |
-| Logs published | `2` | `—` | `—` | — |
-| Active arcs | `1` | `—` | `—` | — |
-| Avg. time draft → publish | `—` | `—` | `7 days` | — |
+| Metric | Baseline | Current | Target |
+|--------|----------|---------|--------|
+| Substack subscribers | `0` | `—` | `—` |
+| Logs published | `0` | `6` | `—` |
+| Active arcs | `1` | `2` (Arc 01 complete, Arc 02 in progress) | `—` |
+| GitHub repo status | Not created | Live & pushing | `—` |
 
 ---
 ---
 
 ## [ 06 — CHANGELOG ]
 
-> *A record of structural decisions made to this command centre.*
-
 | Date | Change | Reason |
 |------|--------|--------|
 | `2026-06-26` | Repository initialized | Archive launch |
-| `YYYY-MM-DD` | `[What changed]` | `[Why]` |
+| `2026-06-26` | LOGs 001, 002, 004 archived | First batch push |
+| `2026-06-26` | Identity (SVG) + Sound Module built | Visual & sonic universe |
+| `2026-06-27` | Repository pushed live to GitHub | KinuthiaSamuel/hakunashortcut |
+| `2026-06-27` | LOGs 003, 005, 006 archived | Arc 01 completed, Arc 02 begun |
+| `2026-06-27` | COMMAND_CENTRE.md + LOG_ROADMAP.md synced to v2.0 | Roadmap had drifted from actual published titles/themes |
 
 ---
 
-> *Knowledge is power. Systems are leverage. See you at the next gate.*
+> *Knowledge is power. Systems are leverage. Ownership is resilience.*
 >
 > **— HakunaShortcut**
 
 ---
 
-*Last updated: `YYYY-MM-DD` | North Kinangop, Kenya*
+*COMMAND CENTRE v2.0 | 2026-06-27 | North Kinangop, Kenya*
