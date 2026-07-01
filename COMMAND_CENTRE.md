@@ -1,7 +1,18 @@
 # COMMAND CENTRE v2.0
 ### HakunaShortcut | Operational Intelligence Hub
 
-> *"You don't rise to the level of your goals. You fall to the level of your systems."*
+> *"A signal does not need to be loud to travel far."*
+>
+> *Yesterday's transmission became today's discovery.*
+> *Today's discovery became another subscriber.*
+> *Another subscriber became proof that the system is learning.*
+>
+> *Growth is beginning to compound — not because one post went viral,*
+> *but because each log strengthens the archive that came before it.*
+>
+> *Observe. Build. Transmit. Repeat.*
+>
+> **— HakunaShortcut, 2026-07-01**
 
 **Revision note:** v2.0 synced to match LOG_ROADMAP.md v2.0 and the
 actual published archive. Arc 02 retitled Sovereignty Series.
@@ -16,8 +27,8 @@ LOGs 001–006 moved from Planned/In Progress to Published.
 | 📍 Base of Operations | North Kinangop, Kenya |
 | 📡 Active Platform | Substack |
 | 🗂️ Archive Status | Operational — pushed to GitHub |
-| 🔄 Current Arc | Arc 02 — The Sovereignty Series |
-| 📋 Next Transmission | Log 007 — The Portability Principle |
+| 🔄 Current Arc | Arc 03 — The Systems Series (pending field signal) |
+| 📋 Next Transmission | Log 008 — working title pending |
 | ⚡ Captain's Status | `Navigating` |
 
 ---
@@ -41,15 +52,16 @@ LOGs 001–006 moved from Planned/In Progress to Published.
 
 ---
 
-### ARC 02 — THE SOVEREIGNTY SERIES 🔄 IN PROGRESS
+### ARC 02 — THE SOVEREIGNTY SERIES ✅ COMPLETE
 **Core Argument:** Knowledge revealed the terrain. Navigation revealed
 the route. Ownership determines whether the journey can continue.
+Portability preserves continuity.
 
 | Log # | Title | Core Friction | Status | Archived |
 |-------|-------|---------------|--------|----------|
 | 005 | *The Infrastructure Lens* | Locate yourself before you build | ✅ Published | `logs/2026/log-005.md` |
 | 006 | *The Dependency Trap* | Profitable dependency is the most dangerous kind | ✅ Published | `logs/2026/log-006.md` |
-| 007 | *The Portability Principle* | What do you own that can move with you? | 📋 Planned | — |
+| 007 | *The Portability Principle* | What do you own that can move with you? | ✅ Published | `logs/2026/log-007.md` |
 
 ---
 
@@ -92,7 +104,7 @@ You must find the points where one move changes everything.
 
 | Log # | Title | Arc | Started | Target Ship |
 |-------|-------|-----|---------|-------------|
-| 007 | *The Portability Principle* | Sovereignty | `—` | `—` |
+| 008 | *Working title TBD* | Systems | `—` | `—` |
 
 ---
 
@@ -106,6 +118,7 @@ You must find the points where one move changes everything.
 | 004 | Accumulate to Dilute | Infrastructure | `logs/2025/log-004.md` |
 | 005 | The Infrastructure Lens | Sovereignty | `logs/2026/log-005.md` |
 | 006 | The Dependency Trap | Sovereignty | `logs/2026/log-006.md` |
+| 007 | The Portability Principle | Sovereignty | `logs/2026/log-007.md` |
 
 ---
 ---
@@ -138,7 +151,7 @@ You must find the points where one move changes everything.
 
 **Rule #7:** Borrowed ground should never become permanent residence. The platform may introduce you. Ownership is what allows you to stay.
 
-**Rule #8:** `[Pending LOG 007]`
+**Rule #8:** Ownership protects your rights. Portability protects your continuity. An asset that cannot survive migration is not fully owned — it is parked on borrowed ground.
 
 ---
 ---
@@ -148,8 +161,8 @@ You must find the points where one move changes everything.
 | Metric | Baseline | Current | Target |
 |--------|----------|---------|--------|
 | Substack subscribers | `0` | `—` | `—` |
-| Logs published | `0` | `6` | `—` |
-| Active arcs | `1` | `2` (Arc 01 complete, Arc 02 in progress) | `—` |
+| Logs published | `0` | `7` | `—` |
+| Active arcs | `1` | `2 complete, Arc 03 pending` | `—` |
 | GitHub repo status | Not created | Live & pushing | `—` |
 
 ---
@@ -165,6 +178,8 @@ You must find the points where one move changes everything.
 | `2026-06-27` | Repository pushed live to GitHub | KinuthiaSamuel/hakunashortcut |
 | `2026-06-27` | LOGs 003, 005, 006 archived | Arc 01 completed, Arc 02 begun |
 | `2026-06-27` | COMMAND_CENTRE.md + LOG_ROADMAP.md synced to v2.0 | Roadmap had drifted from actual published titles/themes |
+| `2026-06-27` | All 20 available visual assets pushed to category folders A–G | Visual universe operational (D02, G03 pending future LOGs) |
+| `2026-06-27` | LOG 007 archived, Rule #8 added, Arc 02 marked complete | Sovereignty Series concluded |
 
 ---
 
