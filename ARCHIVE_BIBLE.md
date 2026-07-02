@@ -32,6 +32,17 @@ HakunaShortcut documents the exceptions.
 From North Kinangop, Kenya, an independent operator files dispatches
 from where global systems meet local reality — and break.
 
+### The Governing Insight
+
+> *Technology succeeds by reducing friction.*
+> *Ironically, that makes the infrastructure harder to see.*
+> *The smoother the delivery becomes, the more invisible the system appears.*
+
+This is the thesis of the entire archive in two sentences.
+Every LOG is an act of making the invisible visible.
+
+---
+
 ### The Reader Contract
 
 Every reader who opens a HakunaShortcut LOG receives three things:

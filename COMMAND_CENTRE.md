@@ -27,8 +27,8 @@ LOGs 001–006 moved from Planned/In Progress to Published.
 | 📍 Base of Operations | North Kinangop, Kenya |
 | 📡 Active Platform | Substack |
 | 🗂️ Archive Status | Operational — pushed to GitHub |
-| 🔄 Current Arc | Arc 03 — The Systems Series (pending field signal) |
-| 📋 Next Transmission | Log 008 — working title pending |
+| 🔄 Current Arc | Arc 03 — The Systems Series |
+| 📋 Next Transmission | Log 009 — Leverage Points |
 | ⚡ Captain's Status | `Navigating` |
 
 ---
@@ -65,18 +65,15 @@ Portability preserves continuity.
 
 ---
 
-### ARC 03 — THE SYSTEMS SERIES 💡 CONCEPT
+### ARC 03 — THE SYSTEMS SERIES 🔄 IN PROGRESS
 **Core Argument:** Understanding the system is not enough.
 You must find the points where one move changes everything.
 
-*Working titles only — subject to revision based on field signal,*
-*consistent with how Arc 02 evolved from the original projection.*
-
-| Log # | Working Title | Status |
-|-------|---------------|--------|
-| 008 | *Distribution Networks* | 💡 Concept |
-| 009 | *Leverage Points* | 💡 Concept |
-| 010 | *The Control Layer* | 💡 Concept |
+| Log # | Title | Core Friction | Status | Archived |
+|-------|-------|---------------|--------|----------|
+| 008 | *Distribution Networks* | How value travels once infrastructure is understood | ✅ Published | `logs/2026/log-008.md` |
+| 009 | *Leverage Points* | Where one move creates outsized results | 📋 Planned | — |
+| 010 | *The Control Layer* | Who ultimately governs the flows | 💡 Concept | — |
 
 ---
 ---
@@ -104,7 +101,7 @@ You must find the points where one move changes everything.
 
 | Log # | Title | Arc | Started | Target Ship |
 |-------|-------|-----|---------|-------------|
-| 008 | *Working title TBD* | Systems | `—` | `—` |
+| 009 | *Leverage Points* | Systems | `—` | `—` |
 
 ---
 
@@ -119,6 +116,7 @@ You must find the points where one move changes everything.
 | 005 | The Infrastructure Lens | Sovereignty | `logs/2026/log-005.md` |
 | 006 | The Dependency Trap | Sovereignty | `logs/2026/log-006.md` |
 | 007 | The Portability Principle | Sovereignty | `logs/2026/log-007.md` |
+| 008 | Distribution Networks | Systems | `logs/2026/log-008.md` |
 
 ---
 ---
@@ -161,8 +159,8 @@ You must find the points where one move changes everything.
 | Metric | Baseline | Current | Target |
 |--------|----------|---------|--------|
 | Substack subscribers | `0` | `—` | `—` |
-| Logs published | `0` | `7` | `—` |
-| Active arcs | `1` | `2 complete, Arc 03 pending` | `—` |
+| Logs published | `0` | `8` | `—` |
+| Active arcs | `1` | `Arc 01 complete, Arc 02 complete, Arc 03 in progress` | `—` |
 | GitHub repo status | Not created | Live & pushing | `—` |
 
 ---
@@ -180,6 +178,9 @@ You must find the points where one move changes everything.
 | `2026-06-27` | COMMAND_CENTRE.md + LOG_ROADMAP.md synced to v2.0 | Roadmap had drifted from actual published titles/themes |
 | `2026-06-27` | All 20 available visual assets pushed to category folders A–G | Visual universe operational (D02, G03 pending future LOGs) |
 | `2026-06-27` | LOG 007 archived, Rule #8 added, Arc 02 marked complete | Sovereignty Series concluded |
+| `2026-07-01` | LOG 008 archived, Rule #9 added, Arc 03 opened | Systems Series begins |
+| `2026-07-01` | Archive Bible updated — governing insight added to Part 01 | LOG 008 thesis locked into Bible |
+| `2026-07-01` | Signal Log updated — Pattern P-04 logged | COMMAND_CENTRE shared independently in WhatsApp group |
 
 ---
 

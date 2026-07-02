@@ -104,10 +104,11 @@ threshold when flat fees eat your capital.
 ---
 ---
 
-## ARC 02 — THE SOVEREIGNTY SERIES
+## ARC 02 — THE SOVEREIGNTY SERIES ✅ COMPLETE
 **Investigation:** *Can you build inside a system without becoming dependent on it?*
 **Core argument:** Knowledge revealed the terrain. Navigation revealed
 the route. Ownership determines whether the journey can continue.
+Portability preserves continuity.
 
 ---
 
@@ -161,23 +162,29 @@ The platform may introduce you. Ownership is what allows you to stay.
 ### LOG 007 — The Portability Principle
 **Theme:** What do you own that can move with you?
 **Layer:** Ownership without portability is still a trap
-**Teaching:** `[To be confirmed on draft arrival]`
-An asset that cannot travel with you across platforms is not
-fully owned — it is parked. True sovereignty requires portability:
-the email list that exports, the community that can migrate,
-the brand that survives a platform's death.
+**Teaching:** An asset can belong to you and still be trapped. Ownership
+answers "can someone take this from me?" Portability answers "can I
+take it with me?" The Portability Test — three questions to run against
+any digital asset before trusting it. Standards are the invisible
+infrastructure that make migration possible at all.
 
-**The Rule:** `[To be extracted from the dispatch]`
+**The Portability Test:**
+1. If this platform disappeared tomorrow, does the asset come with me?
+2. Can I export it into a format another system understands?
+3. Will it continue functioning after the move?
+
+**The Rule:** Ownership protects your rights. Portability protects
+your continuity. An asset that cannot survive migration is not fully
+owned — it is parked on borrowed ground.
 
 **Primary Asset:** G02 — Radar Sweep
 **Support Asset:** G01 — Satellite Surveillance
 
-**Status:** 📋 Planned — draft incoming
-**Target publish:** `YYYY-MM-DD`
-**Archived:** —
+**Status:** ✅ Published & Archived
+**Archived:** `logs/2026/log-007.md`
 
 **Next Transmission hook:**
-> *"Ownership is mapped. Next: what happens when the system itself starts working against you?"*
+> *"Every system develops its own gravity. The question is no longer whether your work can move — it is whether you can recognize the forces quietly persuading it to stay exactly where it is."*
 
 ---
 ---
@@ -194,11 +201,26 @@ the original roadmap.
 
 ---
 
-### LOG 008 — Working Title: Distribution Networks
-**Theme:** How value reaches the last mile
-**Status:** 💡 Concept
+### LOG 008 — Distribution Networks
+**Theme:** How value travels once the infrastructure is understood
+**Layer:** Movement is the third pillar — after terrain and ownership
+**Teaching:** Every system exists to transfer something from one place
+to another while reducing friction. Digital work follows the same
+logic as physical logistics — cargo, routes, delivery, trust.
+The operator who maps their routes before they need them is the
+operator who keeps delivering when others stop.
+
+**The Rule:** Movement is universal. Infrastructure determines how
+far value can travel. Ownership determines who benefits when it arrives.
+
 **Primary Asset:** D01 — Container Logistics Network
 **Support Asset:** B01 — Global Network Grid
+
+**Status:** ✅ Published & Archived
+**Archived:** `logs/2026/log-008.md`
+
+**Next Transmission hook:**
+> *"The routes are mapped. The system is moving. Next: where does one move create outsized results across the entire network?"*
 
 ---
 
@@ -229,8 +251,8 @@ the original roadmap.
 | 004 | Accumulate to Dilute | Infrastructure | C02 | ✅ Published |
 | 005 | The Infrastructure Lens | Sovereignty | A04 | ✅ Published |
 | 006 | The Dependency Trap | Sovereignty | D02 | ✅ Published |
-| 007 | The Portability Principle | Sovereignty | G02 | 📋 Planned |
-| 008 | Distribution Networks (wt) | Systems | D01 | 💡 Concept |
+| 007 | The Portability Principle | Sovereignty | G02 | ✅ Published |
+| 008 | Distribution Networks | Systems | D01 | ✅ Published |
 | 009 | Leverage Points (wt) | Systems | G03 | 💡 Concept |
 | 010 | The Control Layer (wt) | Systems | A01 | 💡 Concept |
 
@@ -257,6 +279,8 @@ the original roadmap.
 |---------|------|--------|
 | v1.0 | 2026-06-26 | Original roadmap — Infrastructure / Liquidity / Systems arcs projected |
 | v2.0 | 2026-06-27 | Synced to actual published LOGs 001–006. Arc 02 retitled Sovereignty Series. Arc 03 marked as working titles pending field signal. |
+| v2.1 | 2026-06-27 | LOG 007 published & archived. Arc 02 — The Sovereignty Series — marked complete. |
+| v2.2 | 2026-07-01 | LOG 008 published & archived. Arc 03 opened. Distribution Networks documented. |
 
 ---
 
