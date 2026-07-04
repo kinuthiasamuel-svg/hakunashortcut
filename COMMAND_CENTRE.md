@@ -28,7 +28,7 @@ LOGs 001–006 moved from Planned/In Progress to Published.
 | 📡 Active Platform | Substack |
 | 🗂️ Archive Status | Operational — pushed to GitHub |
 | 🔄 Current Arc | Arc 03 — The Systems Series |
-| 📋 Next Transmission | Log 009 — Leverage Points |
+| 📋 Next Transmission | Log 010 — Leverage Points |
 | ⚡ Captain's Status | `Navigating` |
 
 ---
@@ -72,8 +72,8 @@ You must find the points where one move changes everything.
 | Log # | Title | Core Friction | Status | Archived |
 |-------|-------|---------------|--------|----------|
 | 008 | *Distribution Networks* | How value travels once infrastructure is understood | ✅ Published | `logs/2026/log-008.md` |
-| 009 | *Leverage Points* | Where one move creates outsized results | 📋 Planned | — |
-| 010 | *The Control Layer* | Who ultimately governs the flows | 💡 Concept | — |
+| 009 | *Protocols vs. Interfaces* | The invisible rules governing visible outcomes | ✅ Published | `logs/2026/log-009.md` |
+| 010 | *Leverage Points* | Where one intervention changes the whole system | 📋 Planned | — |
 
 ---
 ---
@@ -101,7 +101,7 @@ You must find the points where one move changes everything.
 
 | Log # | Title | Arc | Started | Target Ship |
 |-------|-------|-----|---------|-------------|
-| 009 | *Leverage Points* | Systems | `—` | `—` |
+| 010 | *Leverage Points* | Systems | `—` | `—` |
 
 ---
 
@@ -117,6 +117,7 @@ You must find the points where one move changes everything.
 | 006 | The Dependency Trap | Sovereignty | `logs/2026/log-006.md` |
 | 007 | The Portability Principle | Sovereignty | `logs/2026/log-007.md` |
 | 008 | Distribution Networks | Systems | `logs/2026/log-008.md` |
+| 009 | Protocols vs. Interfaces | Systems | `logs/2026/log-009.md` |
 
 ---
 ---
@@ -159,7 +160,7 @@ You must find the points where one move changes everything.
 | Metric | Baseline | Current | Target |
 |--------|----------|---------|--------|
 | Substack subscribers | `0` | `—` | `—` |
-| Logs published | `0` | `8` | `—` |
+| Logs published | `0` | `9` | `—` |
 | Active arcs | `1` | `Arc 01 complete, Arc 02 complete, Arc 03 in progress` | `—` |
 | GitHub repo status | Not created | Live & pushing | `—` |
 
@@ -181,6 +182,7 @@ You must find the points where one move changes everything.
 | `2026-07-01` | LOG 008 archived, Rule #9 added, Arc 03 opened | Systems Series begins |
 | `2026-07-01` | Archive Bible updated — governing insight added to Part 01 | LOG 008 thesis locked into Bible |
 | `2026-07-01` | Signal Log updated — Pattern P-04 logged | COMMAND_CENTRE shared independently in WhatsApp group |
+| `2026-07-03` | LOG 009 archived, Rule #10 added, roadmap retitled | Protocols vs. Interfaces confirmed as LOG 009. LOG 010 inherits Leverage Points. Missing assets D02 and G03 generated. |
 
 ---
 

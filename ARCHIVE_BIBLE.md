@@ -303,6 +303,20 @@ Your job is to see what it cannot.
 
 **Rule #6:** The signature ending is sacred. It does not change.
 
+**Rule #7:** Borrowed ground should never become permanent residence.
+The platform may introduce you. Ownership is what allows you to stay.
+
+**Rule #8:** Ownership protects your rights. Portability protects your
+continuity. An asset that cannot survive migration is not fully owned —
+it is parked on borrowed ground.
+
+**Rule #9:** Movement is universal. Infrastructure determines how far
+value can travel. Ownership determines who benefits when it arrives.
+
+**Rule #10:** Do not optimize for the interface. Map the protocol.
+The dashboard tells you what happened. The architecture determines
+what becomes possible.
+
 ---
 ---
 
