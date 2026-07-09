@@ -1,4 +1,4 @@
-# COMMAND CENTRE v2.0
+# COMMAND CENTRE v2.1
 ### HakunaShortcut | Operational Intelligence Hub
 
 > *"A signal does not need to be loud to travel far."*
@@ -14,9 +14,11 @@
 >
 > **— HakunaShortcut, 2026-07-01**
 
-**Revision note:** v2.0 synced to match LOG_ROADMAP.md v2.0 and the
-actual published archive. Arc 02 retitled Sovereignty Series.
-LOGs 001–006 moved from Planned/In Progress to Published.
+**Revision note:** v2.1 synced to LOG_ROADMAP.md v2.4 and ARCHIVE_BIBLE.md
+v1.1. LOG 010 archived, Arc 03 marked complete, Arc 04 opened. Rules
+section was missing #9 and #10 (added retroactively) and now includes
+#11. Cargo Metaphor Arc mismatch between LOGs 009/010 corrected in the
+Archive Bible during this sync.
 
 ---
 
@@ -27,8 +29,8 @@ LOGs 001–006 moved from Planned/In Progress to Published.
 | 📍 Base of Operations | North Kinangop, Kenya |
 | 📡 Active Platform | Substack |
 | 🗂️ Archive Status | Operational — pushed to GitHub |
-| 🔄 Current Arc | Arc 03 — The Systems Series |
-| 📋 Next Transmission | Log 010 — Leverage Points |
+| 🔄 Current Arc | Arc 03 complete — Arc 04 (The Control Series) opening |
+| 📋 Next Transmission | Log 011 — The Control Layer (working title) |
 | ⚡ Captain's Status | `Navigating` |
 
 ---
@@ -65,7 +67,7 @@ Portability preserves continuity.
 
 ---
 
-### ARC 03 — THE SYSTEMS SERIES 🔄 IN PROGRESS
+### ARC 03 — THE SYSTEMS SERIES ✅ COMPLETE
 **Core Argument:** Understanding the system is not enough.
 You must find the points where one move changes everything.
 
@@ -73,7 +75,16 @@ You must find the points where one move changes everything.
 |-------|-------|---------------|--------|----------|
 | 008 | *Distribution Networks* | How value travels once infrastructure is understood | ✅ Published | `logs/2026/log-008.md` |
 | 009 | *Protocols vs. Interfaces* | The invisible rules governing visible outcomes | ✅ Published | `logs/2026/log-009.md` |
-| 010 | *Leverage Points* | Where one intervention changes the whole system | 📋 Planned | — |
+| 010 | *Leverage Points* | Where one intervention changes the whole system | ✅ Published | `logs/2026/log-010.md` |
+
+---
+
+### ARC 04 — THE CONTROL SERIES 📋 PLANNED
+**Core Argument:** Once you're plugged into the layers, who actually holds the switches?
+
+| Log # | Title | Core Friction | Status | Archived |
+|-------|-------|---------------|--------|----------|
+| 011 | *The Control Layer* | Who runs the system | 📋 Planned | — |
 
 ---
 ---
@@ -90,10 +101,10 @@ You must find the points where one move changes everything.
 
 | # | Idea | Date Logged | Target Arc |
 |---|------|-------------|------------|
-| C-01 | The cost of free tools — hidden subscription infrastructure | `—` | Arc 03 |
-| C-02 | When your currency isn't supported — FX conversion as a tax | `—` | Arc 03 |
-| C-03 | Digital identity as a gate — KYC from the last mile | `—` | Arc 03 |
-| C-04 | What happens when the gate closes behind you | `—` | Arc 02/03 bridge |
+| C-01 | The cost of free tools — hidden subscription infrastructure | `—` | Arc 04 |
+| C-02 | When your currency isn't supported — FX conversion as a tax | `—` | Arc 04 |
+| C-03 | Digital identity as a gate — KYC from the last mile | `—` | Arc 04 |
+| C-04 | What happens when the gate closes behind you | `—` | Arc 03/04 bridge |
 
 ---
 
@@ -101,7 +112,7 @@ You must find the points where one move changes everything.
 
 | Log # | Title | Arc | Started | Target Ship |
 |-------|-------|-----|---------|-------------|
-| 010 | *Leverage Points* | Systems | `—` | `—` |
+| 011 | *The Control Layer* | Control | `—` | `—` |
 
 ---
 
@@ -118,6 +129,7 @@ You must find the points where one move changes everything.
 | 007 | The Portability Principle | Sovereignty | `logs/2026/log-007.md` |
 | 008 | Distribution Networks | Systems | `logs/2026/log-008.md` |
 | 009 | Protocols vs. Interfaces | Systems | `logs/2026/log-009.md` |
+| 010 | Leverage Points | Systems | `logs/2026/log-010.md` |
 
 ---
 ---
@@ -127,7 +139,7 @@ You must find the points where one move changes everything.
 | Platform | Purpose | Status | Last Reviewed |
 |----------|---------|--------|---------------|
 | Substack | Publishing | ✅ Active | `—` |
-| GitHub | Archive & command centre | ✅ Active — Live | `2026-06-27` |
+| GitHub | Archive & command centre | ✅ Active — Live | `2026-07-07` |
 
 ---
 ---
@@ -152,6 +164,12 @@ You must find the points where one move changes everything.
 
 **Rule #8:** Ownership protects your rights. Portability protects your continuity. An asset that cannot survive migration is not fully owned — it is parked on borrowed ground.
 
+**Rule #9:** Movement is universal. Infrastructure determines how far value can travel. Ownership determines who benefits when it arrives.
+
+**Rule #10:** Do not optimize for the interface. Map the protocol. The dashboard tells you what happened. The architecture determines what becomes possible.
+
+**Rule #11:** Plug into the six layers — compute, payments, identity, distribution, trust, data — and effort compounds. Operate outside them, and you burn out against friction you can't see.
+
 ---
 ---
 
@@ -160,8 +178,8 @@ You must find the points where one move changes everything.
 | Metric | Baseline | Current | Target |
 |--------|----------|---------|--------|
 | Substack subscribers | `0` | `—` | `—` |
-| Logs published | `0` | `9` | `—` |
-| Active arcs | `1` | `Arc 01 complete, Arc 02 complete, Arc 03 in progress` | `—` |
+| Logs published | `0` | `10` | `—` |
+| Active arcs | `1` | `Arc 01 complete, Arc 02 complete, Arc 03 complete, Arc 04 planned` | `—` |
 | GitHub repo status | Not created | Live & pushing | `—` |
 
 ---
@@ -183,7 +201,10 @@ You must find the points where one move changes everything.
 | `2026-07-01` | Archive Bible updated — governing insight added to Part 01 | LOG 008 thesis locked into Bible |
 | `2026-07-01` | Signal Log updated — Pattern P-04 logged | COMMAND_CENTRE shared independently in WhatsApp group |
 | `2026-07-03` | LOG 009 archived, Rule #10 added, roadmap retitled | Protocols vs. Interfaces confirmed as LOG 009. LOG 010 inherits Leverage Points. Missing assets D02 and G03 generated. |
+| `2026-07-07` | Rules #9 and #10 backfilled into COMMAND_CENTRE (were missing from Section 04 despite being live in the Archive Bible) | Drift caught during repository sync |
+| `2026-07-07` | LOG 010 archived, Rule #11 added, Arc 03 marked complete, Arc 04 opened | Leverage Points published; duplicate Rule #10 in the draft corrected to Rule #11; Archive Bible Cargo Metaphor Arc row order corrected |
 
+---
 ---
 
 > *Knowledge is power. Systems are leverage. Ownership is resilience.*
@@ -192,4 +213,4 @@ You must find the points where one move changes everything.
 
 ---
 
-*COMMAND CENTRE v2.0 | 2026-06-27 | North Kinangop, Kenya*
+*COMMAND CENTRE v2.1 | 2026-07-07 | North Kinangop, Kenya*

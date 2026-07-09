@@ -1,4 +1,4 @@
-# ARCHIVE BIBLE v1.0
+# ARCHIVE BIBLE v1.1
 ### HakunaShortcut | Laws of the Universe
 
 > *"A recognizable universe is built from constraints, not creativity."*
@@ -267,8 +267,14 @@ of the same infrastructure system:
 | 006 | Bottlenecks | Where it stops |
 | 007 | Signal vs Noise | What's real intelligence |
 | 008 | Distribution Networks | How it reaches the last mile |
-| 009 | Leverage Points | Where one move changes everything |
-| 010 | The Control Layer | Who runs the system |
+| 009 | Protocols vs. Interfaces | The invisible rules beneath the dashboard |
+| 010 | Leverage Points | Where one move changes everything |
+| 011 | The Control Layer | Who runs the system |
+
+*(Rows 009–010 corrected 2026-07-07: this table had not been updated
+when LOG 009 was retitled from "Leverage Points" to "Protocols vs.
+Interfaces" in LOG_ROADMAP v2.3. "The Control Layer" — originally
+slotted here as LOG 010 — is now the seed for the upcoming LOG 011.)*
 
 ### The Next Transmission
 
@@ -316,6 +322,10 @@ value can travel. Ownership determines who benefits when it arrives.
 **Rule #10:** Do not optimize for the interface. Map the protocol.
 The dashboard tells you what happened. The architecture determines
 what becomes possible.
+
+**Rule #11:** Plug into the six layers — compute, payments, identity,
+distribution, trust, data — and effort compounds. Operate outside
+them, and you burn out against friction you can't see.
 
 ---
 ---
@@ -365,6 +375,7 @@ Before any LOG ships, confirm:
 | Date | Amendment | Reason |
 |------|-----------|--------|
 | `2026-06-26` | Archive Bible initialized | Universe launch |
+| `2026-07-07` | Cargo Metaphor Arc table corrected (rows 009–010 swapped, 011 added); Rule #11 added | Repository sync ahead of LOG 010 push — table had not tracked the LOG 009 retitle from v2.3 |
 | `YYYY-MM-DD` | `[What changed]` | `[Why]` |
 
 ---
@@ -375,4 +386,4 @@ Before any LOG ships, confirm:
 
 ---
 
-*Archive Bible v1.0 | 2026-06-26 | North Kinangop, Kenya*
+*Archive Bible v1.1 | 2026-07-07 | North Kinangop, Kenya*
