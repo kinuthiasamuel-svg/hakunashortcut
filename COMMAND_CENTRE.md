@@ -140,6 +140,7 @@ You must find the points where one move changes everything.
 |----------|---------|--------|---------------|
 | Substack | Publishing | ✅ Active | `—` |
 | GitHub | Archive & command centre | ✅ Active — Live | `2026-07-07` |
+| Reddit | Secondary distribution | 🔴 Suspended — self-promotion violation | `2026-07-07` |
 
 ---
 ---
@@ -203,6 +204,7 @@ You must find the points where one move changes everything.
 | `2026-07-03` | LOG 009 archived, Rule #10 added, roadmap retitled | Protocols vs. Interfaces confirmed as LOG 009. LOG 010 inherits Leverage Points. Missing assets D02 and G03 generated. |
 | `2026-07-07` | Rules #9 and #10 backfilled into COMMAND_CENTRE (were missing from Section 04 despite being live in the Archive Bible) | Drift caught during repository sync |
 | `2026-07-07` | LOG 010 archived, Rule #11 added, Arc 03 marked complete, Arc 04 opened | Leverage Points published; duplicate Rule #10 in the draft corrected to Rule #11; Archive Bible Cargo Metaphor Arc row order corrected |
+| `2026-07-07` | Reddit account suspended (self-promotion violation); marked 🔴 in Platform Intelligence; Signal Log Pattern P-05 drafted | Direct real-world confirmation of Rule #5 — minor traffic impact (~2 views/post), no appeal planned |
 
 ---
 ---
