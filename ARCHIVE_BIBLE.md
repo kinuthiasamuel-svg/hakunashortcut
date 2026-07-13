@@ -1,4 +1,4 @@
-# ARCHIVE BIBLE v1.1
+# ARCHIVE BIBLE v1.4
 ### HakunaShortcut | Laws of the Universe
 
 > *"A recognizable universe is built from constraints, not creativity."*
@@ -350,6 +350,24 @@ them, and you burn out against friction you can't see.
 📊 UPDATE         COMMAND_CENTRE metrics and pipeline updated
 ```
 
+### The Two-State Model — Archived vs. Published
+
+These are two separate, independently tracked states. Conflating them
+is what caused LOGs 006–010 to sit marked "✅ Published" in every
+tracker for weeks while none had actually gone out on Substack.
+
+- **🗄️ Archived** — the markdown is finalized, checklist-passed, and
+  committed to `/logs/[year]/` in the GitHub repo. It exists and is
+  correct. It is not yet public.
+- **📡 Published** — the post is confirmed live on Substack, verified
+  via `scripts/verify_substack_rss.py` returning exit code 0 against
+  the real feed, not assumed from a schedule or a completed draft.
+
+A LOG can be Archived without being Published — that's a healthy
+content buffer, not an error. A LOG should never be marked Published
+without RSS confirmation, regardless of how complete or scheduled it
+appears.
+
 ### The Pre-Publish Checklist
 
 Before any LOG ships, confirm:
@@ -363,7 +381,17 @@ Before any LOG ships, confirm:
 - [ ] Signature ending exact — no variation
 - [ ] Next transmission hook present
 - [ ] Internal metadata block removed before publishing
-- [ ] Markdown filed to `/logs/[year]/` after publishing
+- [ ] Tables converted to arrow/code-block format — Substack's editor has no native table support; pasted markdown tables render as raw pipes and dashes
+- [ ] Markdown filed to `/logs/[year]/` — this marks the LOG **Archived**
+
+### The Pre-Live Checklist
+
+Before marking a LOG **Published** in any tracker:
+
+- [ ] Publish immediately on Substack — do not use the Schedule feature. Scheduling introduces timezone ambiguity and a false "confirmed" status before anything is actually live
+- [ ] Run `scripts/verify_substack_rss.py --match "[title]"` and confirm exit code 0
+- [ ] Record the real Substack title alongside the internal shorthand title — they have diverged for every LOG published so far except 004
+- [ ] Record the real `pubDate` from the feed, not the intended send time
 
 ---
 ---
@@ -376,6 +404,9 @@ Before any LOG ships, confirm:
 |------|-----------|--------|
 | `2026-06-26` | Archive Bible initialized | Universe launch |
 | `2026-07-07` | Cargo Metaphor Arc table corrected (rows 009–010 swapped, 011 added); Rule #11 added | Repository sync ahead of LOG 010 push — table had not tracked the LOG 009 retitle from v2.3 |
+| `2026-07-08` | Pre-Publish Checklist: added "convert tables to arrow/code-block format" step | LOG 005's markdown tables rendered as broken raw pipes in the Substack editor, which has no native table support — this will hit every future LOG with a table (008, 009, 010 all have one) |
+| `2026-07-12` | Pre-Publish Checklist: added "publish immediately, no Substack scheduling" and "run RSS verify before marking Published" steps | LOG 005 was scheduled for 5pm and nearly got tracked as Published while still hours from actually firing; RSS verification confirmed it went live at 8:36pm, not 5pm |
+| `2026-07-13` | **Formalized the Archived/Published two-state model.** Split the Pre-Publish Checklist into a Pre-Publish (Archive) checklist and a Pre-Live (Publish) checklist. | Full reconciliation against the real RSS feed found LOGs 006–010 marked "Published" everywhere despite never going out on Substack — only the archive step had happened. Conflating the two states was the root cause. |
 | `YYYY-MM-DD` | `[What changed]` | `[Why]` |
 
 ---
@@ -386,4 +417,4 @@ Before any LOG ships, confirm:
 
 ---
 
-*Archive Bible v1.1 | 2026-07-07 | North Kinangop, Kenya*
+*Archive Bible v1.4 | 2026-07-13 | North Kinangop, Kenya*

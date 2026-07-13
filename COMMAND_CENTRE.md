@@ -1,4 +1,4 @@
-# COMMAND CENTRE v2.1
+# COMMAND CENTRE v3.0
 ### HakunaShortcut | Operational Intelligence Hub
 
 > *"A signal does not need to be loud to travel far."*
@@ -14,11 +14,12 @@
 >
 > **— HakunaShortcut, 2026-07-01**
 
-**Revision note:** v2.1 synced to LOG_ROADMAP.md v2.4 and ARCHIVE_BIBLE.md
-v1.1. LOG 010 archived, Arc 03 marked complete, Arc 04 opened. Rules
-section was missing #9 and #10 (added retroactively) and now includes
-#11. Cargo Metaphor Arc mismatch between LOGs 009/010 corrected in the
-Archive Bible during this sync.
+**Revision note:** v3.0 — Full reconciliation against the real Substack
+RSS feed (see LOG_ROADMAP v3.0 for the underlying data). Two structural
+changes: (1) "Substack Live" and "GitHub Archived" are now tracked as
+separate columns everywhere instead of one collapsed "Published"
+status; (2) real Substack titles now recorded alongside internal
+shorthand titles, since they've diverged since LOG 001.
 
 ---
 
@@ -28,9 +29,10 @@ Archive Bible during this sync.
 |-----------|--------------|
 | 📍 Base of Operations | North Kinangop, Kenya |
 | 📡 Active Platform | Substack |
-| 🗂️ Archive Status | Operational — pushed to GitHub |
-| 🔄 Current Arc | Arc 03 complete — Arc 04 (The Control Series) opening |
-| 📋 Next Transmission | Log 011 — The Control Layer (working title) |
+| 🗂️ GitHub Archive Status | Operational — Live, currently through LOG 010 |
+| 📻 Substack Live Status | Currently through LOG 005 (+ 2 pre-numbered origin posts) |
+| 🔄 Content Buffer | 5 LOGs archived and ready, awaiting Substack release (006–010) |
+| 📋 Next Substack Release | LOG 006 — The Dependency Trap (est. ~2026-07-19, weekly Sunday cadence) |
 | ⚡ Captain's Status | `Navigating` |
 
 ---
@@ -38,53 +40,55 @@ Archive Bible during this sync.
 
 ## [ 01 — SERIES ARCS ]
 
-> *The map of where we've been and where we're going.*
+> *The map of where we've been and where we're going. Substack and
+> GitHub status are now tracked separately — see LOG_ROADMAP v3.0 for
+> full detail per LOG.*
 
 ---
 
-### ARC 01 — THE INFRASTRUCTURE SERIES ✅ COMPLETE
+### ARC 01 — THE INFRASTRUCTURE SERIES ✅ COMPLETE (Live on Substack)
 **Core Argument:** The digital economy is not equally accessible. The gap is not skill — it is plumbing.
 
-| Log # | Title | Core Friction | Status | Archived |
-|-------|-------|---------------|--------|----------|
-| 001 | *The Access Gate* | Why participation is difficult | ✅ Published | `logs/2025/log-001.md` |
-| 002 | *The Gatekeepers* | The four-layer gate network | ✅ Published | `logs/2025/log-002.md` |
-| 003 | *The Incentive Matrix* | The eight sentinels and why gates exist | ✅ Published | `logs/2025/log-003.md` |
-| 004 | *Accumulate to Dilute* | Token micro-earnings & fee leakage | ✅ Published | `logs/2025/log-004.md` |
+| Log # | Internal Title | Real Substack Title | Substack | GitHub |
+|-------|-----------------|----------------------|----------|--------|
+| 001 | The Access Gate | Hustles to Systems: The Hidden Journey of Online Income. | ✅ Live | ✅ Archived |
+| 002 | The Gatekeepers | The Unseen Layers Controlling Your Digital Income. (Gate Network) | ✅ Live | ✅ Archived |
+| 003 | The Incentive Matrix | The Unseen Layers Controlling Your Digital Income. (Incentive Matrix) | ✅ Live | ✅ Archived |
+| 004 | Accumulate to Dilute | Accumulate To Dilute. | ✅ Live | ✅ Archived |
 
 ---
 
-### ARC 02 — THE SOVEREIGNTY SERIES ✅ COMPLETE
+### ARC 02 — THE SOVEREIGNTY SERIES — Live: 1/3, Archived: 3/3
 **Core Argument:** Knowledge revealed the terrain. Navigation revealed
 the route. Ownership determines whether the journey can continue.
 Portability preserves continuity.
 
-| Log # | Title | Core Friction | Status | Archived |
-|-------|-------|---------------|--------|----------|
-| 005 | *The Infrastructure Lens* | Locate yourself before you build | ✅ Published | `logs/2026/log-005.md` |
-| 006 | *The Dependency Trap* | Profitable dependency is the most dangerous kind | ✅ Published | `logs/2026/log-006.md` |
-| 007 | *The Portability Principle* | What do you own that can move with you? | ✅ Published | `logs/2026/log-007.md` |
+| Log # | Title | Substack | GitHub |
+|-------|-------|----------|--------|
+| 005 | The Infrastructure Lens | ✅ Live (real title: "INFRASTRUCTURE LENS.") | ✅ Archived |
+| 006 | The Dependency Trap | 📡 Not yet published | ✅ Archived |
+| 007 | The Portability Principle | 📡 Not yet published | ✅ Archived |
 
 ---
 
-### ARC 03 — THE SYSTEMS SERIES ✅ COMPLETE
+### ARC 03 — THE SYSTEMS SERIES — Live: 0/3, Archived: 3/3
 **Core Argument:** Understanding the system is not enough.
 You must find the points where one move changes everything.
 
-| Log # | Title | Core Friction | Status | Archived |
-|-------|-------|---------------|--------|----------|
-| 008 | *Distribution Networks* | How value travels once infrastructure is understood | ✅ Published | `logs/2026/log-008.md` |
-| 009 | *Protocols vs. Interfaces* | The invisible rules governing visible outcomes | ✅ Published | `logs/2026/log-009.md` |
-| 010 | *Leverage Points* | Where one intervention changes the whole system | ✅ Published | `logs/2026/log-010.md` |
+| Log # | Title | Substack | GitHub |
+|-------|-------|----------|--------|
+| 008 | Distribution Networks | 📡 Not yet published | ✅ Archived |
+| 009 | Protocols vs. Interfaces | 📡 Not yet published | ✅ Archived |
+| 010 | Leverage Points | 📡 Not yet published | ✅ Archived |
 
 ---
 
 ### ARC 04 — THE CONTROL SERIES 📋 PLANNED
 **Core Argument:** Once you're plugged into the layers, who actually holds the switches?
 
-| Log # | Title | Core Friction | Status | Archived |
-|-------|-------|---------------|--------|----------|
-| 011 | *The Control Layer* | Who runs the system | 📋 Planned | — |
+| Log # | Title | Substack | GitHub |
+|-------|-------|----------|--------|
+| 011 | The Control Layer | 📋 Not written | 📋 Not archived |
 
 ---
 ---
@@ -92,8 +96,11 @@ You must find the points where one move changes everything.
 ## [ 02 — EDITORIAL PIPELINE ]
 
 ```
-💡 CONCEPT → 📝 DRAFT → 🔍 REVIEW → ✅ PUBLISHED → 🗂️ ARCHIVED
+💡 CONCEPT → 📝 DRAFT → 🔍 REVIEW → 🗄️ ARCHIVED (GitHub) → 📡 PUBLISHED (Substack)
 ```
+
+*Archiving and publishing are now separate pipeline stages, not one
+combined step — this is the change that made the buffer visible.*
 
 ---
 
@@ -108,28 +115,37 @@ You must find the points where one move changes everything.
 
 ---
 
+### 🗄️ ARCHIVED, AWAITING SUBSTACK RELEASE
+
+| Log # | Title | Archived | Est. Release |
+|-------|-------|----------|--------------|
+| 006 | The Dependency Trap | `logs/2026/log-006.md` | ~2026-07-19 |
+| 007 | The Portability Principle | `logs/2026/log-007.md` | ~2026-07-26 |
+| 008 | Distribution Networks | `logs/2026/log-008.md` | ~2026-08-02 |
+| 009 | Protocols vs. Interfaces | `logs/2026/log-009.md` | ~2026-08-09 |
+| 010 | Leverage Points | `logs/2026/log-010.md` | ~2026-08-16 |
+
+---
+
 ### 📝 DRAFTS IN PROGRESS
 
 | Log # | Title | Arc | Started | Target Ship |
 |-------|-------|-----|---------|-------------|
-| 011 | *The Control Layer* | Control | `—` | `—` |
+| 011 | The Control Layer | Control | `—` | `—` |
 
 ---
 
-### ✅ PUBLISHED LOG
+### ✅ LIVE ON SUBSTACK
 
-| Log # | Title | Arc | Archived |
-|-------|-------|-----|----------|
-| 001 | The Access Gate | Infrastructure | `logs/2025/log-001.md` |
-| 002 | The Gatekeepers | Infrastructure | `logs/2025/log-002.md` |
-| 003 | The Incentive Matrix | Infrastructure | `logs/2025/log-003.md` |
-| 004 | Accumulate to Dilute | Infrastructure | `logs/2025/log-004.md` |
-| 005 | The Infrastructure Lens | Sovereignty | `logs/2026/log-005.md` |
-| 006 | The Dependency Trap | Sovereignty | `logs/2026/log-006.md` |
-| 007 | The Portability Principle | Sovereignty | `logs/2026/log-007.md` |
-| 008 | Distribution Networks | Systems | `logs/2026/log-008.md` |
-| 009 | Protocols vs. Interfaces | Systems | `logs/2026/log-009.md` |
-| 010 | Leverage Points | Systems | `logs/2026/log-010.md` |
+| Order | Title | Log # | Live Date | Link |
+|-------|-------|-------|-----------|------|
+| 1 | Welcome to HakunaShortcut. | (pre-numbering) | 2026-06-04 | `/p/welcome-to-hakunashortcut` |
+| 2 | Why PayPal Forced Me to Think Differently... | (pre-numbering) | 2026-06-07 | `/p/why-paypal-forced-me-to-think-differently` |
+| 3 | Hustles to Systems: The Hidden Journey... | 001 | 2026-06-13 | `/p/hustles-to-systems-the-hidden-journey` |
+| 4 | The Unseen Layers Controlling Your Digital Income. | 002 | 2026-06-21 | `/p/the-unseen-layers-controlling-your` |
+| 5 | The Unseen Layers Controlling Your Digital Income. | 003 | 2026-06-28 | `/p/the-unseen-layers-controlling-your-45d` |
+| 6 | Accumulate To Dilute. | 004 | ~2026-07-05 | `—` |
+| 7 | Infrastructure Lens. | 005 | 2026-07-12 | `/p/infrastructure-lens` |
 
 ---
 ---
@@ -138,8 +154,8 @@ You must find the points where one move changes everything.
 
 | Platform | Purpose | Status | Last Reviewed |
 |----------|---------|--------|---------------|
-| Substack | Publishing | ✅ Active | `—` |
-| GitHub | Archive & command centre | ✅ Active — Live | `2026-07-07` |
+| Substack | Publishing | ✅ Active — 7 live posts | `2026-07-13` |
+| GitHub | Archive & command centre | ✅ Active — Live, 10 LOGs archived | `2026-07-07` |
 | Reddit | Secondary distribution | 🔴 Suspended — self-promotion violation | `2026-07-07` |
 
 ---
@@ -179,8 +195,11 @@ You must find the points where one move changes everything.
 | Metric | Baseline | Current | Target |
 |--------|----------|---------|--------|
 | Substack subscribers | `0` | `—` | `—` |
-| Logs published | `0` | `10` | `—` |
-| Active arcs | `1` | `Arc 01 complete, Arc 02 complete, Arc 03 complete, Arc 04 planned` | `—` |
+| Logs live on Substack | `0` | `5` (+ 2 pre-numbered) | `—` |
+| Logs archived to GitHub | `0` | `10` | `—` |
+| Content buffer (archived, not yet live) | `0` | `5` | Keep 2–3 as steady-state |
+| Active arcs (GitHub) | `1` | `Arc 01 complete, Arc 02 complete, Arc 03 complete, Arc 04 planned` | `—` |
+| Active arcs (Substack) | `1` | `Arc 01 complete, Arc 02 in progress (1/3)` | `—` |
 | GitHub repo status | Not created | Live & pushing | `—` |
 
 ---
@@ -197,7 +216,7 @@ You must find the points where one move changes everything.
 | `2026-06-27` | LOGs 003, 005, 006 archived | Arc 01 completed, Arc 02 begun |
 | `2026-06-27` | COMMAND_CENTRE.md + LOG_ROADMAP.md synced to v2.0 | Roadmap had drifted from actual published titles/themes |
 | `2026-06-27` | All 20 available visual assets pushed to category folders A–G | Visual universe operational (D02, G03 pending future LOGs) |
-| `2026-06-27` | LOG 007 archived, Rule #8 added, Arc 02 marked complete | Sovereignty Series concluded |
+| `2026-06-27` | LOG 007 archived, Rule #8 added, Arc 02 marked complete | Sovereignty Series concluded (GitHub side only, per v3.0 reconciliation) |
 | `2026-07-01` | LOG 008 archived, Rule #9 added, Arc 03 opened | Systems Series begins |
 | `2026-07-01` | Archive Bible updated — governing insight added to Part 01 | LOG 008 thesis locked into Bible |
 | `2026-07-01` | Signal Log updated — Pattern P-04 logged | COMMAND_CENTRE shared independently in WhatsApp group |
@@ -205,6 +224,8 @@ You must find the points where one move changes everything.
 | `2026-07-07` | Rules #9 and #10 backfilled into COMMAND_CENTRE (were missing from Section 04 despite being live in the Archive Bible) | Drift caught during repository sync |
 | `2026-07-07` | LOG 010 archived, Rule #11 added, Arc 03 marked complete, Arc 04 opened | Leverage Points published; duplicate Rule #10 in the draft corrected to Rule #11; Archive Bible Cargo Metaphor Arc row order corrected |
 | `2026-07-07` | Reddit account suspended (self-promotion violation); marked 🔴 in Platform Intelligence; Signal Log Pattern P-05 drafted | Direct real-world confirmation of Rule #5 — minor traffic impact (~2 views/post), no appeal planned |
+| `2026-07-13` | LOG 005 confirmed live via direct RSS feed inspection | First LOG marked Published on RSS confirmation rather than assumption |
+| `2026-07-13` | **Full reconciliation.** Split "Archived to GitHub" from "Published on Substack" as separate tracked states everywhere. Discovered LOGs 006–010 were marked Published in every tracker despite never having gone out on Substack — only the GitHub archive step had happened. Real Substack titles captured for 001–005 (diverge from internal shorthand since LOG 001). Two pre-numbered origin posts added to the record. | Trackers had conflated "finished and committed" with "publicly live," which is exactly the ambiguity that nearly caused LOG 005 to be marked Published while still unscheduled two weeks earlier |
 
 ---
 ---
@@ -215,4 +236,4 @@ You must find the points where one move changes everything.
 
 ---
 
-*COMMAND CENTRE v2.1 | 2026-07-07 | North Kinangop, Kenya*
+*COMMAND CENTRE v3.0 | 2026-07-13 | North Kinangop, Kenya*

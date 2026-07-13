@@ -1,12 +1,19 @@
-# LOG ROADMAP v2.3
+# LOG ROADMAP v3.0
 ### HakunaShortcut | The Investigation Arc
 
 > *"Viewed together, they stop feeling like individual articles and start feeling like chapters of a single investigation."*
 
-**Revision note:** v2.3 — LOG 009 retitled from "Leverage Points" to
-"Protocols vs. Interfaces" based on field signal from the draft.
-LOG 010 inherits Leverage Points. Sequence is now tighter:
-Own → Move → Understand the rules → Intervene effectively.
+**Revision note:** v3.0 — Full reconciliation against the real Substack
+RSS feed. Two findings corrected archive-wide:
+
+1. **Real Substack titles differ from internal shorthand titles** for
+   LOGs 001, 002, 003, and 005 (004 matches closely; see table below).
+2. **"Archived to GitHub" and "Published on Substack" are now tracked
+   as two separate states.** LOGs 006–010 were marked "✅ Published"
+   everywhere despite never having gone out on Substack — only the
+   GitHub archive step had actually happened. This reads as a healthy
+   5-dispatch buffer on a weekly Sunday cadence, not a failure, but the
+   status label was wrong and is corrected below.
 
 ---
 
@@ -22,109 +29,97 @@ Every investigation builds toward one revelation:
 ---
 ---
 
-## ARC 01 — THE INFRASTRUCTURE SERIES ✅ COMPLETE
+## PRE-LOG TRANSMISSIONS (Origin Posts)
+
+Published before LOG numbering began. Not part of any Arc, but part of
+the real public record — should be referenced, not orphaned.
+
+| Title | Date | Link |
+|-------|------|------|
+| *Welcome to HakunaShortcut.* | 2026-06-04 | `/p/welcome-to-hakunashortcut` |
+| *Why PayPal Forced Me to Think Differently About Online Income.* | 2026-06-07 | `/p/why-paypal-forced-me-to-think-differently` |
+
+---
+---
+
+## ARC 01 — THE INFRASTRUCTURE SERIES ✅ COMPLETE (Live)
 **Investigation:** *Why is the digital economy inaccessible from the last mile?*
 
-| Log # | Title | Status | Archived |
-|-------|-------|--------|----------|
-| 001 | *The Access Gate* | ✅ Published | `logs/2025/log-001.md` |
-| 002 | *The Gatekeepers* | ✅ Published | `logs/2025/log-002.md` |
-| 003 | *The Incentive Matrix* | ✅ Published | `logs/2025/log-003.md` |
-| 004 | *Accumulate to Dilute* | ✅ Published | `logs/2025/log-004.md` |
+| Log # | Internal Title | Real Substack Title | Substack | GitHub | Live Date |
+|-------|----------------|----------------------|----------|--------|-----------|
+| 001 | The Access Gate | *Hustles to Systems: The Hidden Journey of Online Income.* | ✅ Live | ✅ Archived | 2026-06-13 |
+| 002 | The Gatekeepers | *The Unseen Layers Controlling Your Digital Income.* (sub: The Gate Network) | ✅ Live | ✅ Archived | 2026-06-21 |
+| 003 | The Incentive Matrix | *The Unseen Layers Controlling Your Digital Income.* (sub: The Incentive Matrix) | ✅ Live | ✅ Archived | 2026-06-28 |
+| 004 | Accumulate to Dilute | *Accumulate To Dilute.* | ✅ Live | ✅ Archived | ~2026-07-05 |
+
+*Note: 002 and 003 share the exact same Substack title — only the
+subtitle/description distinguishes them in the feed. Worth varying
+titles going forward so they're distinguishable outside your own site.*
 
 ---
 ---
 
-## ARC 02 — THE SOVEREIGNTY SERIES ✅ COMPLETE
+## ARC 02 — THE SOVEREIGNTY SERIES 🗄️ Archived / 📡 Not Yet Live
 **Investigation:** *Can you build inside a system without becoming dependent on it?*
 
-| Log # | Title | Status | Archived |
-|-------|-------|--------|----------|
-| 005 | *The Infrastructure Lens* | ✅ Published | `logs/2026/log-005.md` |
-| 006 | *The Dependency Trap* | ✅ Published | `logs/2026/log-006.md` |
-| 007 | *The Portability Principle* | ✅ Published | `logs/2026/log-007.md` |
+| Log # | Title | Substack | GitHub | Notes |
+|-------|-------|----------|--------|-------|
+| 005 | *The Infrastructure Lens* | ✅ Live — real title "INFRASTRUCTURE LENS." | ✅ Archived | Confirmed via RSS, 2026-07-12 14:02:59 GMT |
+| 006 | *The Dependency Trap* | 📡 Not yet published | ✅ Archived | Ready to publish — est. next in queue, ~2026-07-19 |
+| 007 | *The Portability Principle* | 📡 Not yet published | ✅ Archived | Ready to publish — est. ~2026-07-26 |
 
 ---
 ---
 
-## ARC 03 — THE SYSTEMS SERIES 🔄 IN PROGRESS
+## ARC 03 — THE SYSTEMS SERIES 🗄️ Archived / 📡 Not Yet Live
 **Investigation:** *How do you build leverage from the last mile?*
 **Core argument:** Understanding the system is not enough.
 You must find the points where one move changes everything.
 
-**The progression:**
-```
-LOG 008 — Own your work, understand how value moves
-LOG 009 — Understand the invisible rules governing movement
-LOG 010 — Where one intervention changes the whole system
-```
+| Log # | Title | Substack | GitHub | Notes |
+|-------|-------|----------|--------|-------|
+| 008 | *Distribution Networks* | 📡 Not yet published | ✅ Archived | Est. ~2026-08-02 |
+| 009 | *Protocols vs. Interfaces* | 📡 Not yet published | ✅ Archived | Rule #10 added on archive | Est. ~2026-08-09 |
+| 010 | *Leverage Points* | 📡 Not yet published | ✅ Archived | Rule #11 added on archive | Est. ~2026-08-16 |
 
----
-
-### LOG 008 — Distribution Networks ✅
-**Theme:** How value travels once infrastructure is understood
-**Teaching:** Every system exists to move something while reducing
-friction. Think like a logistics operator, not a platform user.
-
-**The Rule:** Movement is universal. Infrastructure determines how
-far value can travel. Ownership determines who benefits when it arrives.
-
-**Primary Asset:** D01 | **Support:** B01
-**Status:** ✅ Published & Archived — `logs/2026/log-008.md`
-
----
-
-### LOG 009 — Protocols vs. Interfaces ✅
-**Theme:** The invisible rules beneath the visible dashboard
-**Teaching:** The interface is not the system. Dashboards record
-activity. Protocols determine where work travels. Builders don't
-merely publish content — they design pathways.
-
-**The Rule:** Do not optimize for the interface. Map the protocol.
-The dashboard tells you what happened. The architecture determines
-what becomes possible.
-
-**Primary Asset:** G03 — Target Acquisition
-**Support Asset:** B03 — Digital Terrain Scan
-
-**Status:** ✅ Published & Archived — `logs/2026/log-009.md`
-
-**Next Transmission hook:**
-> *"The protocol is mapped. The pathways are active. Next: where does one intervention change the entire system?"*
-
----
-
-### LOG 010 — Leverage Points
-**Theme:** Where one small action creates disproportionate results
-**Teaching:** `[To be extracted from dispatch]`
-Not all nodes in a system are equal. A small number of points
-carry disproportionate influence. Find them. Position at them.
-
-**The Rule:** `[Pending]`
-
-**Primary Asset:** A01 — Central Command Room
-**Support Asset:** F01 — Boardroom Decisions
-
-**Status:** 📋 Planned
-**Archived:** —
+*Estimates assume the observed weekly-Sunday cadence holds. This is a
+forecast, not a schedule — update once each actually ships.*
 
 ---
 ---
 
-## FULL ARC OVERVIEW
+## ARC 04 — THE CONTROL SERIES 📋 PLANNED
+**Investigation:** *Once you've found the leverage points, who actually holds the switches?*
 
-| Log | Title | Arc | Asset | Status |
-|-----|-------|-----|-------|--------|
-| 001 | The Access Gate | Infrastructure | C01 | ✅ |
-| 002 | The Gatekeepers | Infrastructure | F03 | ✅ |
-| 003 | The Incentive Matrix | Infrastructure | B02 | ✅ |
-| 004 | Accumulate to Dilute | Infrastructure | C02 | ✅ |
-| 005 | The Infrastructure Lens | Sovereignty | A04 | ✅ |
-| 006 | The Dependency Trap | Sovereignty | D02 | ✅ |
-| 007 | The Portability Principle | Sovereignty | G02 | ✅ |
-| 008 | Distribution Networks | Systems | D01 | ✅ |
-| 009 | Protocols vs. Interfaces | Systems | G03 | ✅ |
-| 010 | Leverage Points | Systems | A01 | 📋 |
+| Log # | Title | Substack | GitHub | Notes |
+|-------|-------|----------|--------|-------|
+| 011 | *The Control Layer* | 📋 Not written | 📋 Not archived | Theme seeded from corrected Cargo Metaphor Arc table |
+
+---
+---
+
+## FULL STATUS OVERVIEW
+
+| Log | Internal Title | Substack Status | GitHub Status |
+|-----|-----------------|------------------|----------------|
+| — | Welcome to HakunaShortcut. | ✅ Live (2026-06-04) | — (pre-archive) |
+| — | Why PayPal Forced Me... | ✅ Live (2026-06-07) | — (pre-archive) |
+| 001 | The Access Gate | ✅ Live (2026-06-13) | ✅ Archived |
+| 002 | The Gatekeepers | ✅ Live (2026-06-21) | ✅ Archived |
+| 003 | The Incentive Matrix | ✅ Live (2026-06-28) | ✅ Archived |
+| 004 | Accumulate to Dilute | ✅ Live (~2026-07-05) | ✅ Archived |
+| 005 | The Infrastructure Lens | ✅ Live (2026-07-12) | ✅ Archived |
+| 006 | The Dependency Trap | 📡 Not yet published | ✅ Archived |
+| 007 | The Portability Principle | 📡 Not yet published | ✅ Archived |
+| 008 | Distribution Networks | 📡 Not yet published | ✅ Archived |
+| 009 | Protocols vs. Interfaces | 📡 Not yet published | ✅ Archived |
+| 010 | Leverage Points | 📡 Not yet published | ✅ Archived |
+| 011 | The Control Layer | 📋 Not written | 📋 Not archived |
+
+**Real-world reading level:** Substack readers are currently three LOGs
+behind the GitHub archive (005 live vs. 010 archived). That's a content
+buffer, not a problem — but it means every "Published" claim in older
+versions of this document, for LOGs 006–010, was inaccurate.
 
 ---
 
@@ -137,6 +132,9 @@ carry disproportionate influence. Find them. Position at them.
 | v2.1 | 2026-06-27 | LOG 007 published, Arc 02 complete |
 | v2.2 | 2026-07-01 | LOG 008 published, Arc 03 opened |
 | v2.3 | 2026-07-03 | LOG 009 retitled Protocols vs. Interfaces. LOG 010 inherits Leverage Points. |
+| v2.4 | 2026-07-07 | LOG 010 published, Arc 03 complete. Rule #11 added. Arc 04 seeded as LOG 011 — The Control Layer. |
+| v2.5 | 2026-07-13 | LOG 005 confirmed live via direct RSS feed inspection — real title differs from internal shorthand. |
+| v3.0 | 2026-07-13 | **Full reconciliation.** Real Substack titles captured for 001–005. "Archived to GitHub" and "Published on Substack" split into separate tracked states — LOGs 006–010 corrected from "Published" to "Archived, not yet live." Two pre-numbered origin posts added. |
 
 ---
 
@@ -145,4 +143,4 @@ carry disproportionate influence. Find them. Position at them.
 > **— HakunaShortcut**
 
 ---
-*LOG ROADMAP v2.3 | 2026-07-03 | North Kinangop, Kenya*
+*LOG ROADMAP v3.0 | 2026-07-13 | North Kinangop, Kenya*
