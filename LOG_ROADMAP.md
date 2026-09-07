@@ -1,4 +1,4 @@
-# LOG ROADMAP v3.2
+# LOG ROADMAP v3.4
 ### HakunaShortcut | The Investigation Arc
 
 > *"Viewed together, they stop feeling like individual articles and start feeling like chapters of a single investigation."*
@@ -88,12 +88,15 @@ forecast, not a schedule — update once each actually ships.*
 ---
 ---
 
-## ARC 04 — THE CONTROL SERIES 📋 PLANNED
+## ARC 04 — THE CONTROL SERIES 🔄 IN PROGRESS
 **Investigation:** *Once you've found the leverage points, who actually holds the switches?*
 
 | Log # | Title | Substack | GitHub | Notes |
 |-------|-------|----------|--------|-------|
-| 011 | *The Control Layer / Invisible Border Agents* | 📡 Dispatching 2026-08-23 | ✅ Archived | Rule #12 — handoff between systems | Arc 04 opens |
+| 011 | *The Control Layer / Invisible Border Agents* | ✅ Live (2026-08-23, 2:36 PM EAT) | ✅ Archived | Rule #12 — Arc 04 opens |
+| 012 | *The Fifth Switch* | ✅ Live (2026-08-30, 3:32 PM) | ✅ Archived | Rule #13 — resolution layer |
+| 013 | *The Parallel Road* | ✅ Live (2026-09-06, 3:35 PM) | ✅ Archived | Rule #14 — reduce the blast radius |
+| 014 | *The Moving Road* | 📡 Not yet published | 📋 Draft structure ready | Rule #15 — build for relocation |
 
 ---
 ---
@@ -110,16 +113,16 @@ forecast, not a schedule — update once each actually ships.*
 | 004 | Accumulate to Dilute | ✅ Live (~2026-07-05) | ✅ Archived |
 | 005 | The Infrastructure Lens | ✅ Live (2026-07-12) | ✅ Archived |
 | 006 | The Dependency Trap | ✅ Live (confirmed 2026-08-15) | ✅ Archived |
-| 007 | The Portability Principle | 📡 Not yet published | ✅ Archived |
-| 008 | Distribution Networks | 📡 Not yet published | ✅ Archived |
+| 007 | The Portability Principle | ✅ Live (2026-07-26) | ✅ Archived |
+| 008 | Distribution Networks | ✅ Live (2026-08-02) | ✅ Archived |
 | 009 | Protocols vs. Interfaces (real: "Leverage Protocol.") | ✅ Live (2026-08-09) | ✅ Archived |
 | 010 | Leverage Points | ✅ Live (2026-08-16) | ✅ Archived |
-| 011 | The Control Layer / Invisible Border Agents | 📡 Dispatching 2026-08-23 | ✅ Archived |
+| 011 | The Control Layer / Invisible Border Agents | ✅ Live (2026-08-23) | ✅ Archived |
+| 012 | The Fifth Switch | ✅ Live (2026-08-30) | ✅ Archived |
+| 013 | The Parallel Road | ✅ Live (2026-09-06) | ✅ Archived |
+| 014 | The Moving Road | 📋 Draft structure ready | 📋 Not yet archived |
 
-**Real-world reading level:** Substack readers are currently three LOGs
-behind the GitHub archive (005 live vs. 010 archived). That's a content
-buffer, not a problem — but it means every "Published" claim in older
-versions of this document, for LOGs 006–010, was inaccurate.
+**Real-world reading level:** Substack and GitHub are now in sync — no content buffer remaining. LOG 014 draft structure exists but content not yet written.
 
 ---
 
@@ -143,4 +146,4 @@ versions of this document, for LOGs 006–010, was inaccurate.
 > **— HakunaShortcut**
 
 ---
-*LOG ROADMAP v3.2 | 2026-08-22 | North Kinangop, Kenya*
+*LOG ROADMAP v3.4 | 2026-09-06 | North Kinangop, Kenya*
