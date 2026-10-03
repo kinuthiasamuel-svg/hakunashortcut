@@ -24,6 +24,11 @@ Read the newsletter: **https://hakunashortcut.substack.com**
 | 009 | Leverage Protocol | 2026-08-09 |
 | 010 | Leverage Points | 2026-08-16 |
 | 011 | The Control Layer — The Invisible Border Agents | 2026-08-23 |
+| 012 | The Fifth Switch | 2026-08-30 |
+| 013 | The Parallel Road | 2026-09-06 |
+| 014 | The Moving Road | 2026-09-14 |
+| 015 | The Cartographer | 2026-09-20 |
+| 016 | The Chain | 2026-09-27 |
 
 This table updates as new Logs go live on Substack.
 
