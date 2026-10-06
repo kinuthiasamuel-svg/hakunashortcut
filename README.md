@@ -29,6 +29,7 @@ Read the newsletter: **https://hakunashortcut.substack.com**
 | 014 | The Moving Road | 2026-09-14 |
 | 015 | The Cartographer | 2026-09-20 |
 | 016 | The Chain | 2026-09-27 |
+| 017 | Carrefour — The Crossroads | 2026-10-04 |
 
 This table updates as new Logs go live on Substack.
 

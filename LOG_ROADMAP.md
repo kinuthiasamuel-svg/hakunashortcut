@@ -1,9 +1,11 @@
-# LOG ROADMAP v3.5
+# LOG ROADMAP v3.6
 ### HakunaShortcut | The Investigation Arc
 
 > *"Viewed together, they stop feeling like individual articles and start feeling like chapters of a single investigation."*
 
-**Revision note:** v3.5 — Reconciled 2026-10-02 against the Substack stats pages. Arc 04 closed (LOG 014 live 2026-09-14). Arc 05 — Architecture opened with LOGs 015–016 live. The public archive had stopped at LOG 011 (earlier "✅ Archived" marks on 012–013 were wrong); LOGs 012–016 were archived on 2026-10-02 in the same commit as this revision.
+**Revision note:** v3.6 — 2026-10-04: LOG 017 live (1:45 PM EAT, posted live, not scheduled) and archived. Substack and GitHub are in sync through LOG 017.
+
+**Earlier revision note:** v3.5 — Reconciled 2026-10-02 against the Substack stats pages. Arc 04 closed (LOG 014 live 2026-09-14). Arc 05 — Architecture opened with LOGs 015–016 live. The public archive had stopped at LOG 011 (earlier "✅ Archived" marks on 012–013 were wrong); LOGs 012–016 were archived on 2026-10-02 in the same commit as this revision.
 
 **Earlier revision note:** v3.0 — Full reconciliation against the real Substack
 RSS feed. Two findings corrected archive-wide:
@@ -111,6 +113,7 @@ forecast, not a schedule — update once each actually ships.*
 |-------|-------|----------|--------|-------|
 | 015 | *The Cartographer* | ✅ Live (2026-09-20, 3:28 PM) | ✅ Archived | Rule #16 — the map is not the territory. Arc 05 opens |
 | 016 | *The Chain* | ✅ Live (2026-09-27, 1:44 PM) | ✅ Archived | Rule #17 — the chain has a current; the move to Production is a decision |
+| 017 | *Carrefour / The Crossroads* | ✅ Live (2026-10-04, 1:45 PM EAT) | ✅ Archived | Rule #18 — movement between positions is contingent, not inherently sequential |
 
 ---
 ---
@@ -137,8 +140,9 @@ forecast, not a schedule — update once each actually ships.*
 | 014 | The Moving Road | ✅ Live (2026-09-14) | ✅ Archived |
 | 015 | The Cartographer | ✅ Live (2026-09-20) | ✅ Archived |
 | 016 | The Chain | ✅ Live (2026-09-27) | ✅ Archived |
+| 017 | Carrefour / The Crossroads | ✅ Live (2026-10-04) | ✅ Archived |
 
-**Real-world reading level:** Substack is live through LOG 016 and the public GitHub archive is in sync through LOG 016 (LOGs 012–016 archived 2026-10-02).
+**Real-world reading level:** Substack and the public GitHub archive are in sync through LOG 017 (LOGs 012–016 archived 2026-10-02; LOG 017 live 2026-10-04 and archived). No content buffer remaining — LOG 018 needs writing.
 
 ---
 
@@ -154,7 +158,8 @@ forecast, not a schedule — update once each actually ships.*
 | v2.4 | 2026-07-07 | LOG 010 published, Arc 03 complete. Rule #11 added. Arc 04 seeded as LOG 011 — The Control Layer. |
 | v2.5 | 2026-07-13 | LOG 005 confirmed live via direct RSS feed inspection — real title differs from internal shorthand. |
 | v3.1–v3.4 | 2026-07-13 → 2026-09-06 | Not recorded in this log (version bumped in header only) |
-| v3.5 | 2026-10-02 | Reconciled against Substack stats. Arc 04 closed; Arc 05 opened (LOGs 015–016 live). GitHub status for 012–016 corrected, then archived 2026-10-02 (public archive previously ended at 011). LOG 006 live date set from the RSS feed. Rules #14–#17 recorded. |
+| v3.6 | 2026-10-04 | LOG 017 live (2026-10-04, 1:45 PM EAT) and archived. Arc 05 now 3/3 live so far. |
+| v3.5 | 2026-10-02 | Reconciled against Substack stats. Arc 04 closed; Arc 05 opened (LOGs 015–016 live; 017 in final draft). GitHub status for 012–016 corrected, then archived 2026-10-02 (public archive previously ended at 011). LOG 006 live date set from the RSS feed. Rules #14–#17 recorded. |
 | v3.0 | 2026-07-13 | **Full reconciliation.** Real Substack titles captured for 001–005. "Archived to GitHub" and "Published on Substack" split into separate tracked states — LOGs 006–010 corrected from "Published" to "Archived, not yet live." Two pre-numbered origin posts added. |
 
 ---
@@ -164,4 +169,4 @@ forecast, not a schedule — update once each actually ships.*
 > **— HakunaShortcut**
 
 ---
-*LOG ROADMAP v3.5 | 2026-10-02 | North Kinangop, Kenya*
+*LOG ROADMAP v3.6 | 2026-10-04 | North Kinangop, Kenya*
